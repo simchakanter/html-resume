@@ -1,0 +1,47 @@
+body {
+  font-family: "Helvetica Neue", arial, sans-serif;
+}
+
+h1 {
+  letter-spacing: .5px;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #808080;
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+h3 {
+  color: #0D0D0D;
+  font-weight: normal;
+}
+
+p {
+  color: #5A5A5A;
+}
+
+.time-span {
+  font-style: italic;
+  font-size: .8em;
+}
+
+.job-title {
+  font-style: italic;
+}
+
+.contact-links {
+  list-style: none;
+  padding: 0px;
+}
+
+.contact-links li {
+  text-indent: 0;
+  display: inline;
+}
+
+.contact-links a {
+  text-decoration: none;
+}

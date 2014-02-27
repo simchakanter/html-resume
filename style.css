@@ -2,6 +2,10 @@ body {
   font-family: "Helvetica Neue", arial, sans-serif;
 }
 
+section {
+  border-bottom: 1px solid #808080;
+}
+
 h1 {
   letter-spacing: .5px;
   font-size: 2em;
